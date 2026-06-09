@@ -29,6 +29,7 @@ cd My-Profile-Card
 * Use the live Server Extentsion in VS Code/Cursor for hot-reloading.
 
 ### Project Structure
+```
 My-Profile-Card
 ├── index.html # Markup
 ├── styles.css # Styles
@@ -37,7 +38,7 @@ My-Profile-Card
 ├── pfp.jpg # Profile Picture
 ├── bg.jpg  # Background Image
 └── favicon.ico # Favicon Graphic
-
+```
 ---
 
 ## License
